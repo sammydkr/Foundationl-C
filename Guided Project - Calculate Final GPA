@@ -1,0 +1,5 @@
+Suppose decimal gradePointAverage = 3.99872831;.
+
+What is the value of (int) gradePointAverage?
+
+3
