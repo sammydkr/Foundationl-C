@@ -1,0 +1,6 @@
+What is wrong with the following code?
+
+int sophiaSum;
+Console.WriteLine("Sophia: " + sophiaSum);
+
+sophiaSum is not initialized before use
